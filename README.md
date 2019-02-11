@@ -1,4 +1,4 @@
-# monitor-firestore-function
+# firebase-firestore-go
 
 A sample of reading and writing Firestore for Firebase
 
